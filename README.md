@@ -6,6 +6,7 @@ The visual features vg_gqa_obj36.h5 can be obtained from the following link usin
 ```
 wget https://nlp.cs.unc.edu/data/lxmert_data/vg_gqa_imgfeat/vg_gqa_obj36.zip
 ```
+The visual features need to be placed in datasets/COCO/features/.
 MHyS features can be downloaded from here:
 Link: https://pan.baidu.com/s/1N9WnPMbSIxNSFKR6O6jALA
 Extraction code: iwtw
