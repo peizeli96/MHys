@@ -12,6 +12,10 @@ Link: https://pan.baidu.com/s/1N9WnPMbSIxNSFKR6O6jALA
 Extraction code: iwtw The above features need to be placed in datasets/vqa/.
 <img width="221" alt="image" src="https://github.com/user-attachments/assets/3ebff814-3bb2-41ea-9fc9-77f5aa2b1527" />
 
+# Running
+```
+bash scripts/VQA_VLBart
+```
 
 # Reference
 If you found this code is useful, please cite the following paper:
