@@ -9,6 +9,8 @@ wget https://nlp.cs.unc.edu/data/lxmert_data/vg_gqa_imgfeat/vg_gqa_obj36.zip
 MHyS features can be downloaded from here:
 Link: https://pan.baidu.com/s/1N9WnPMbSIxNSFKR6O6jALA
 Extraction code: iwtw
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/3ebff814-3bb2-41ea-9fc9-77f5aa2b1527" />
+
 
 # Reference
 If you found this code is useful, please cite the following paper:
