@@ -1,7 +1,7 @@
 # Multimodal Hypothetical Summary for Retrieval-based Multi-image Question Answering
 ![image](https://github.com/user-attachments/assets/4cbff592-d6a8-4fba-a14d-c06bce076d01)
 
-# Visual feature
+# Feature extraction
 The visual features vg_gqa_obj36.h5 can be obtained from the following link using:
 ```
 wget https://nlp.cs.unc.edu/data/lxmert_data/vg_gqa_imgfeat/vg_gqa_obj36.zip
