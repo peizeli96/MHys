@@ -3,8 +3,9 @@
 
 # Visual feature
 The visual features vg_gqa_obj36.h5 can be obtained from the following link using:
+```
 wget https://nlp.cs.unc.edu/data/lxmert_data/vg_gqa_imgfeat/vg_gqa_obj36.zip
-
+```
 # Reference
 If you found this code is useful, please cite the following paper:
 ```
